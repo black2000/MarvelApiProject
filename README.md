@@ -25,8 +25,9 @@ the recently viewed characters.
 
 <table>
  
+ <tr>
  
-  <td><img src="https://user-images.githubusercontent.com/35314267/167252843-dcf38420-d9fd-45da-9f16-707a6d164c4d.png" width="400" height="500"  /> </td>
+<td><img src="https://user-images.githubusercontent.com/35314267/167252843-dcf38420-d9fd-45da-9f16-707a6d164c4d.png" width="400" height="500"  /> </td>
 
 <td><img src="https://user-images.githubusercontent.com/35314267/167252845-0c2fc659-82af-4fd9-a024-5692304062fc.png" width="400" height="500"  /> </td>
 
