@@ -22,10 +22,15 @@ the recently viewed characters.
  
 
 ## Screen Shots 
-<img src="https://user-images.githubusercontent.com/35314267/167252843-dcf38420-d9fd-45da-9f16-707a6d164c4d.png" width="200" height="200"  />
+<img src="https://user-images.githubusercontent.com/35314267/167252843-dcf38420-d9fd-45da-9f16-707a6d164c4d.png" width="500" height="500"  />
 
-![Simulator Screen Shot - iPhone 8 - 2022-05-07 at 13 41 02](https://user-images.githubusercontent.com/35314267/167252845-0c2fc659-82af-4fd9-a024-5692304062fc.png)
-![Simulator Screen Shot - iPhone 8 - 2022-05-07 at 13 41 43](https://user-images.githubusercontent.com/35314267/167252848-982511be-cd25-4e32-a294-f09da826bcd1.png)
-![Simulator Screen Shot - iPhone 8 - 2022-05-07 at 13 41 36](https://user-images.githubusercontent.com/35314267/167252849-fbec6203-4dd2-49a5-bc7a-6939dba8bce4.png)
-![Simulator Screen Shot - iPhone 8 - 2022-05-07 at 13 41 21](https://user-images.githubusercontent.com/35314267/167252854-1d001910-e953-47d7-b97e-1a1773c47184.png)
+<img src="https://user-images.githubusercontent.com/35314267/167252845-0c2fc659-82af-4fd9-a024-5692304062fc.png" width="500" height="500"  />
+
+<img src="https://user-images.githubusercontent.com/35314267/167252848-982511be-cd25-4e32-a294-f09da826bcd1.png" width="500" height="500"  />
+
+<img src="https://user-images.githubusercontent.com/35314267/167252849-fbec6203-4dd2-49a5-bc7a-6939dba8bce4.png" width="500" height="500"  />
+
+<img src="https://user-images.githubusercontent.com/35314267/167252854-1d001910-e953-47d7-b97e-1a1773c47184.png" width="500" height="500"  />
+
+
 
